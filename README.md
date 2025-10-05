@@ -1,4 +1,4 @@
-# Swift E-Commerce iOS App
+
 
 A SwiftUI iOS application that connects to the Express.js backend for a complete e-commerce experience.
 
