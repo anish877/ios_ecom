@@ -4,7 +4,7 @@ A SwiftUI iOS application that connects to the Express.js backend for a complete
 
 ## Features
 
-- **Product Catalog**: Browse products with search and category filtering
+Product Catalog**: Browse products with search and category filtering
 - **Shopping Cart**: Add, update, and remove items from cart
 - **Order Management**: Create orders and track order history
 - **Modern UI**: Beautiful SwiftUI interface with responsive design
