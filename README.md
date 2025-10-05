@@ -16,7 +16,7 @@ A SwiftUI iOS application that connects to the Express.js backend for a complete
 - Xcode 15.0+
 - Backend server running on `http://localhost:3000`
 
-## Project Structure
+
 
 ```
 SwiftEcomApp/
